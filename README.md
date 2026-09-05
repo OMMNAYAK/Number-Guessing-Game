@@ -20,8 +20,8 @@ A fun number guessing game built with Python!
 If you want to run it on your own computer:
 
 ```bash
-git clone https://github.com/ommnayak010/Number-Guessing-Game.git
-cd Number-Guessing-Game/week1
+git clone https://github.com/OMMNAYAK/Number-Guessing-Game.git
+cd Number-Guessing-Game
 python number_guessing_game.py
 ```
 
