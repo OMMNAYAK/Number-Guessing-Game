@@ -21,7 +21,7 @@ If you want to run it on your own computer:
 
 ```bash
 git clone https://github.com/ommnayak010/Number-Guessing-Game.git
-cd Number-Gauessing-Game/week1
+cd Number-Guessing-Game/week1
 python number_guessing_game.py
 ```
 
